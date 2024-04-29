@@ -1,0 +1,71 @@
+
+/* Header de Inicio*/
+
+header{
+background-color:coral ;
+}
+h1{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    padding-top: 1%;
+}
+.logo img{
+    width:100px;
+    height:100px;
+}
+/* Nav de Inicio*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(206, 95, 55);
+}
+li {
+    float: left;
+} 
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+li a:hover {
+    background-color: #ee4010;
+}
+
+/* Main de Inicio*/
+main{
+background-color:lightseagreen ;
+}
+.seccionFavoritos{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.seccionFavoritos p{
+    text-align: left;
+}
+.seccionFavoritos a{
+    color: yellow;
+}
+.imagen img{
+    width: 50%;
+    height: 50%;
+}
+.seccionDestacados{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.seccionDestacados a{
+    color: yellow;
+}
+
+/* Pie de Inicio*/
+footer{
+    background-color:coral;
+    text-align: center;
+}
